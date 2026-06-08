@@ -1,3 +1,31 @@
+# Streamlit UI - 4 roles and 7 patients Sample Outputs
+
+- Member
+
+<img width="892" height="832" alt="Healthcare Multi Agent Demo App - member - different patient" src="https://github.com/user-attachments/assets/b7af36ae-a65f-411f-8d0e-569c009429bc" />
+
+<img width="1330" height="817" alt="Healthcare Multi Agent Demo App - member" src="https://github.com/user-attachments/assets/d774061c-cd31-4c71-9883-41cd432faf03" />
+
+- Clinician
+
+<img width="917" height="797" alt="Healthcare Multi Agent Demo App - clinician - emily johnson" src="https://github.com/user-attachments/assets/940f828b-2628-4c2e-9e33-df57b8bd025e" />
+
+<img width="906" height="787" alt="Healthcare Multi Agent Demo App - clinician - sarah patel" src="https://github.com/user-attachments/assets/f14daa39-bff7-4286-a45d-14e9f0cb5817" />
+
+- Provider
+
+<img width="922" height="772" alt="Healthcare Multi Agent Demo App - provider - different patient" src="https://github.com/user-attachments/assets/d98d6842-cc29-476d-9a4b-15bb38a4ba38" />
+
+<img width="832" height="752" alt="Healthcare Multi Agent Demo App - provider" src="https://github.com/user-attachments/assets/ce64a691-357e-4c9c-94ef-1c5d9d737938" />
+
+- Care Manager
+
+<img width="897" height="840" alt="Healthcare Multi Agent Demo App - care manager - condition counts" src="https://github.com/user-attachments/assets/4c7331d5-75e1-43f1-b097-0e980e3f3f4f" />
+
+<img width="1072" height="725" alt="Healthcare Multi Agent Demo App - care manager - population summary" src="https://github.com/user-attachments/assets/0fb05632-d8b0-4052-b661-13626d2fc18d" />
+
+<img width="1167" height="792" alt="Healthcare Multi Agent Demo App - care manager" src="https://github.com/user-attachments/assets/2254f272-dd7b-4c9d-8f2f-84daa8e8a9b8" />
+
 # Healthcare Multi Agent Demo App
 
 A lightweight healthcare AI prototype demonstrating a **Leader Agent architecture** with role-based routing for different healthcare stakeholders.
@@ -54,6 +82,8 @@ Simple Local RAG
 ```
 
 ---
+
+<img width="1024" height="617" alt="c4a12f22-9baa-4f85-bf51-3a840611a20b" src="https://github.com/user-attachments/assets/84b2f524-cb4b-4c09-a1cf-054b534e9cb9" />
 
 ## Agents
 
@@ -212,6 +242,8 @@ python -m streamlit run streamlit_app.py
 7. Results are displayed in the UI.
 
 ---
+
+<img width="1024" height="559" alt="d2bf71aa-dd26-4e0f-bf19-137f2f005fff" src="https://github.com/user-attachments/assets/57d11275-315e-4128-a9db-ae500e7e5451" />
 
 ## Learning Objectives
 
