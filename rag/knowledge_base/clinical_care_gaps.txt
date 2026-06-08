@@ -1,0 +1,5 @@
+Care gaps occur when recommended preventive or chronic disease care has not been completed.
+
+Common examples include overdue HbA1c follow-up, diabetic eye exams, blood pressure follow-up, CHF monitoring, kidney function follow-up, and pulmonary follow-up.
+
+Clinicians may use care gap information to prepare for visits and coordinate follow-up care.
