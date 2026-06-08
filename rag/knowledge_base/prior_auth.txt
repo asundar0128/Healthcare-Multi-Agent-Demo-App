@@ -1,0 +1,5 @@
+Prior authorization is a payer review process used before certain services are approved.
+
+Requests may require documentation of medical necessity, prior treatment history, imaging results, therapy notes, or physician documentation.
+
+Missing documentation, incomplete medical necessity, or absent treatment history can increase denial risk.
