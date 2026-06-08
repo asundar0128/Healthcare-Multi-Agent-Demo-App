@@ -1,0 +1,7 @@
+Patient education should use simple language.
+
+Patients may need help understanding lab results, medications, conditions, care plans, and next steps.
+
+AI explanations should be educational and should not replace clinician guidance.
+
+Patients should speak with their healthcare provider before changing medications or making treatment decisions.
